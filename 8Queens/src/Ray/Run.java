@@ -1,4 +1,4 @@
-package RehmanShabab;
+package Ray;
 
 import java.util.Scanner;
 
